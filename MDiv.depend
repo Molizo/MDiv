@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1516965592 source:c:\users\mihneavisoiu\desktop\mdiv\main.cpp
+	<iostream>
+	<fstream>
+
